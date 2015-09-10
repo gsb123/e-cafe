@@ -1,0 +1,1 @@
+Elektronikus vendéglátást támogató szoftver
